@@ -9,7 +9,7 @@ public class MakeCake {
 		mycake.recipe("sugar", "egg", "chocolate", "banana");
 	
 	AnotherClassForPractice chcake  = new AnotherClassForPractice();
-		chcake.recipe ("sugar", "egg");
+		chcake.recipe ("sugar", "eggs23");
 	}	
 	}
 
